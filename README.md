@@ -5,12 +5,57 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working as Lab Assistant In Mechanical Department Institute of Technology Zakura Campus ...
+- 🌱 I’m currently learning ** MERN Stack   (MongoDB,Express,React,Node.js)**
+- 🎯 Goal: To become a **Skilled Full-Stack developer**
+- 📫 Interested in building real-world application and improving problem-solving skills
+- 📘 Preparing to start my first set of project soon
+---
+### 🛠️ Tech Skills (Growing)  
+*Frontend:*  
+HTML, CSS, JavaScript, React (learning)
+
+*Backend (Upcoming):*  
+Node.js, Express.js  
+
+*Database (Upcoming):*  
+MongoDB  
+
+*Tools:*  
+Git, GitHub, VS Code, Postman  
+
+### 📌 Projects  
+> No projects yet — but exciting ones are coming soon!  
+I will be adding:  
+- ✔ MERN full-stack applications  
+- ✔ Mini JS projects  
+- ✔ API-based apps  
+- ✔ Daily development progress  
+
+Stay tuned! 🚀
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayubsoaliha&show_icons=true&theme=react" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayubsoaliha&layout=compact&theme=react" height="165" />
+</p>
+
+---
+
+### 📫 Connect With Me  
+<p>
+  <a href="YOUR-LINKEDIN-LINK-HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR-PORTFOLIO-LINK-HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⭐ “Every expert was once a beginner — and I’m just getting started.”
 - ⚡ Fun fact: ...
 -->
