@@ -38,15 +38,15 @@ Stay tuned! 🚀
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayubsoaliha&show_icons=true&theme=react" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayubsoaliha&layout=compact&theme=react" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayubsoaliha-SS&show_icons=true&theme=react" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubsoaliha-SS&layout=compact&theme=react" height="165" />
 </p>
 
 ---
 
 ### 📫 Connect With Me  
 <p>
-  <a href="YOUR-LINKEDIN-LINK-HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/soaliha-ayub-83b06825b?trk=contact-info" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="YOUR-PORTFOLIO-LINK-HERE" target="_blank">
