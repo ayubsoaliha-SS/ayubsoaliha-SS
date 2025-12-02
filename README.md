@@ -51,7 +51,7 @@ Stay tuned! 🚀
 
 ---
 
-### <span style="color:#3F51B5;">📫 Connect With Me</span>
+### <span style="color:#3F51B5;">📫 Connect With Me </span>
 https://www.linkedin.com/in/soaliha-ayub-83b06825b?trk=contact-info
 <p>
   <a href="https://www.linkedin.com/in/soaliha-ayub-83b06825b?trk=contact-info" target="_blank">
