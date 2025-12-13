@@ -43,11 +43,12 @@ Git, GitHub, VS Code, Postman
 Stay tuned! 🚀
 
 ---
-### <span style="color:#F44336;">📈 GitHub Stats</span>
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayubsoaliha-SS&show_icons=true&theme=react" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubsoaliha-SS&layout=compact&theme=react" height="165" />
 </p>
+
 
 ---
 
