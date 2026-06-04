@@ -44,11 +44,6 @@ Stay tuned! 🚀
 
 ---
 ## 📈 GitHub Stats
-### 📊 My GitHub Stats
-
-### 📊 My GitHub Stats
-
-### 📊 My GitHub Stats
 
 <div align="center">
 
