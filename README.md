@@ -1,46 +1,87 @@
-<h1 align="center"><span style="color:#4CAF50;"> ## Hi there 👋 I'm AyubSoaliha </span></h1>
-<h3 align="center"><span style="color:#2196F3;">Aspiring MERN Developer | Passionate Learner | Future Full-Stack Engineer</span></h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+AyubSoaliha;Aspiring+MERN+Developer;Future+Full-Stack+Engineer" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Passionate Learner | Problem Solver | Building Real-World Web Applications</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Srinagar%2C%20J%26K-2196F3?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/ayubsoaliha-SS?label=Followers&style=flat-square&color=E91E63" />
+</p>
 
 ---
 
-### <span style="color:#FF9800;">🚀 About Me</span>
-- 📍 Location: Srinagar, Jammu & Kashmir
-- 🌱 Currently learning the <span style="color:#4CAF50;">MERN Stack (MongoDB, Express, React, Node.js)</span>  
-- 🎯 Goal: To become a <span style="color:#2196F3;">skilled full-stack developer</span>  
-- 💡 Interested in building real-world apps & improving problem-solving  
+### 🚀 About Me
+
+- 📍 **Based in:** Srinagar, Jammu & Kashmir
+- 🌱 **Current Focus:** Deep diving into the **MERN Stack** (MongoDB, Express, React, Node.js) and mastering **Data Structures & Algorithms (DSA)**.
+- 💡 **Passionate About:** Writing clean, maintainable code and turning complex UI designs into functional web ecosystems.
+- 💼 **Career Goal:** Open to full-stack development opportunities where I can contribute to meaningful engineering solutions.
 
 ---
 
-### <span style="color:#E91E63;">🛠️ Tech Skills</span>
+### 🛠️ Tech Stack & Ecosystem
 
-**Frontend:**  
-<span style="color:#03A9F4;">HTML</span>,  
-<span style="color:#4CAF50;">CSS</span>,  
-<span style="color:#FFC107;">JavaScript</span>,  
-<span style="color:#00BCD4;">React</span>
-
-**Backend & Databases:**  
-<span style="color:#9C27B0;">Node.js</span>,  
-<span style="color:#673AB7;">Express.js</span>,  
-<span style="color:#8BC34A;">MongoDB</span>  
-
-**Tools:**  
-Git, GitHub, VS Code, Postman  
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <br />
+  <!-- Backend & DB -->
+  <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-### <span style="color:#009688;">📌 Featured Projects</span>
+### 📌 Featured Projects
 
-#### 📂 [Project 1 Name] - Full Stack / Frontend / Backend
-*   **Description:** A concise 1-2 sentence breakdown of what the project does.
-*   **Tech Stack:** React, Node.js, MongoDB
-*   **Links:** [Live Demo](YOUR_DEPLOYED_LINK) | [Video Walkthrough](YOUR_VIDEO_LINK)
+*Each project contains dedicated links for source review, live environments, and functionality recordings to meet industry expectations.*
+
+#### 📂 1. Project One Title (e.g., FreshEats E-Commerce Platform)
+> **Project Type:** Fullstack / Frontend / Backend
+*   **Description:** A feature-rich application designed to solve [insert problem statement]. Includes user management, state control, and fluid interface flows.
+*   **Tech Stack:** React, Node.js, Express, MongoDB, Redux
+*   **Links:** 🌐 [Live Deployment](#) | 🎬 [Video Walkthrough](#) | 💻 [GitHub Repository](#)
+
+#### 📂 2. Project Two Title
+> **Project Type:** Fullstack / Frontend / Backend
+*   **Description:** A responsive application engineered around seamless state rendering and secure architectural design principles.
+*   **Tech Stack:** JavaScript, HTML5, CSS3, REST APIs
+*   **Links:** 🌐 [Live Deployment](#) | 🎬 [Video Walkthrough](#) | 💻 [GitHub Repository](#)
+
+#### 📂 3. Project Three Title
+> **Project Type:** Fullstack / Frontend / Backend
+*   **Description:** Dedicated operational framework focusing heavily on clean server routines, efficient data processing, and optimized asset handling.
+*   **Tech Stack:** Node.js, Express, MongoDB, Mongoose
+*   **Links:** 🌐 [Live Deployment](#) | 🎬 [Video Walkthrough](#) | 💻 [GitHub Repository](#)
+
+#### 📂 4. Project Four Title
+> **Project Type:** Fullstack / Frontend / Backend
+*   **Description:** Interactive frontend application displaying complex data parsing, UI layouts, and fast interactive response metrics.
+*   **Tech Stack:** React, Custom CSS, Context API
+*   **Links:** 🌐 [Live Deployment](#) | 🎬 [Video Walkthrough](#) | 💻 [GitHub Repository](#)
+
+#### 📂 5. Project Five Title
+> **Project Type:** Fullstack / Frontend / Backend
+*   **Description:** A lightweight utility engine handling daily tasks, automated data processing, or algorithmic computations cleanly.
+*   **Tech Stack:** Core JavaScript, Async/Await APIs
+*   **Links:** 🌐 [Live Deployment](#) | 🎬 [Video Walkthrough](#) | 💻 [GitHub Repository](#)
 
 ---
 
 <div align="center">
 
-### 📊 My GitHub Stats
+### 📊 Real-Time Git Performance
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayubsoaliha-SS&show_icons=true&theme=radial" alt="GitHub Stats" height="180px" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayubsoaliha-SS&layout=compact&theme=radial" alt="Top Languages" height="180px" />
@@ -49,17 +90,19 @@ Git, GitHub, VS Code, Postman
 
 ---
 
-### <span style="color:#3F51B5;">📫 Connect With Me </span>
+### 📫 Connect & Network
 
-<p>
-  <a href="https://www.linkedin.com/in/soaliha-ayub-83b06825b?trk=contact-info" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+Feel free to explore my repositories or drop a message to talk about clean code, architecture, or web development!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/soaliha-ayub-83b06825b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-<h3 align="center"><span style="color:#FF5722;">⭐ “Every expert was once a beginner — and I’m just getting started.”</span></h3>
+<h4 align="center">⭐️ “Every expert was once a beginner — and I’m just getting started.”</h4>
