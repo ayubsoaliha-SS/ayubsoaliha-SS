@@ -5,7 +5,7 @@
 <h3 align="center">Passionate Learner | Problem Solver | Building Real-World Web Applications</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Srinagar%2C%20J%26K-2196F3?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Srinagar%2C%20J%26K-📍%20Location-2196F3?style=flat-square" />
   <img src="https://img.shields.io/github/followers/ayubsoaliha-SS?label=Followers&style=flat-square&color=E91E63" />
 </p>
 
@@ -83,8 +83,8 @@
 
 ### 📊 Real-Time Git Performance
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayubsoaliha-SS&show_icons=true&theme=radial" alt="GitHub Stats" height="180px" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayubsoaliha-SS&layout=compact&theme=radial" alt="Top Languages" height="180px" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayubsoaliha-SS&show_icons=true&theme=dracula" alt="GitHub Stats" height="180px" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayubsoaliha-SS&layout=compact&theme=dracula" alt="Top Languages" height="180px" />
 
 </div>
 
@@ -98,7 +98,7 @@ Feel free to explore my repositories or drop a message to talk about clean code,
   <a href="https://www.linkedin.com/in/soaliha-ayub-83b06825b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
+  <a href="https://soalihaayub.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
