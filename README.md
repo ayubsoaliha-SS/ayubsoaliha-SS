@@ -50,14 +50,16 @@ Stay tuned! 🚀
 
 ### 📊 My GitHub Stats
 
-<!-- Left Card: Overall Stats (Using an alternative reliable mirror) -->
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayubsoaliha-SS&show_icons=true&theme=radial" alt="GitHub Stats" height="180px" />
+<div align="center">
 
-<!-- Right Card: Top Languages (Using an alternative reliable mirror) -->
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayubsoaliha-SS&layout=compact&theme=radial" alt="Top Languages" height="180px" />
+### 📊 My GitHub Stats
 
-<!-- Clear floats so the layout doesn't break below this section -->
-<br clear="both" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayubsoaliha-SS&show_icons=true&theme=radial" alt="GitHub Stats" height="180px" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayubsoaliha-SS&layout=compact&theme=radial" alt="Top Languages" height="180px" />
+
+</div>
+
+---
 ---
 
 ### <span style="color:#3F51B5;">📫 Connect With Me </span>
