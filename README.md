@@ -48,11 +48,13 @@ Stay tuned! 🚀
 
 ### 📊 My GitHub Stats
 
-<!-- Left Card: Overall Stats -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ayubsoaliha-SS&show_icons=true&theme=radial" alt="GitHub Stats" height="180px" />
+### 📊 My GitHub Stats
 
-<!-- Right Card: Top Languages -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubsoaliha-SS&layout=compact&theme=radial" alt="Top Languages" height="180px" />
+<!-- Left Card: Overall Stats (Using an alternative reliable mirror) -->
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayubsoaliha-SS&show_icons=true&theme=radial" alt="GitHub Stats" height="180px" />
+
+<!-- Right Card: Top Languages (Using an alternative reliable mirror) -->
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayubsoaliha-SS&layout=compact&theme=radial" alt="Top Languages" height="180px" />
 
 <!-- Clear floats so the layout doesn't break below this section -->
 <br clear="both" />
