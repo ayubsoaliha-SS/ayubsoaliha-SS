@@ -5,10 +5,9 @@
 <h3 align="center">Passionate Learner | Problem Solver | Building Real-World Web Applications</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Srinagar%2C%20J%26K-📍%20Location-2196F3?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/ayubsoaliha-SS?label=Followers&style=flat-square&color=E91E63" />
+  <img src="https://img.shields.io/badge/Location-Srinagar%2C%20J%26K-2196F3?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/ayubsoaliha-SS?label=Followers&style=for-the-badge&color=E91E63&logo=github" />
 </p>
-
 ---
 
 ### 🚀 About Me
