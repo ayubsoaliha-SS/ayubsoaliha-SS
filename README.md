@@ -43,7 +43,6 @@ Git, GitHub, VS Code, Postman
 Stay tuned! 🚀
 
 ---
-## 📈 GitHub Stats
 
 <div align="center">
 
