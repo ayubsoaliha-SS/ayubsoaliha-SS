@@ -72,7 +72,7 @@ Structured the experience for React components, backend integration, and future 
 *   Organized core sections for itineraries, destination cards, trust signals, and booking intent.
 *   Prioritized responsive layout, strong imagery, and conversion-focused calls to action.
 *   **Tech Stack:** HTML, CSS, Javascript
-*   **Links:** 🌐 https://heavens-travel.vercel.app| 💻 https://github.com/ayubsoaliha-SS/Heavensway-Travel.git
+*   **Links:** 🌐 https://heavens-travel.vercel.app | 💻 https://github.com/ayubsoaliha-SS/Heavensway-Travel.git
 
 #### 📂 4.AI Portfolio Audit   Developer Productivity
 > **Project Type:** Fullstack / Frontend / Backend
@@ -90,7 +90,7 @@ Structured the experience for React components, backend integration, and future 
 *   Designed for learners who need a fast view of what to do next and where they are improving.
 *   Kept the UI modular so features can grow into collaboration, feedback, and analytics flows.
 *   **Tech Stack:** Core JavaScript, CSS,Javascript
-*   **Links:** 🌐 https://techflow-five.vercel.app|  💻 https://github.com/ayubsoaliha-SS/techflow.git
+*   **Links:** 🌐 https://techflow-five.vercel.app |  💻 https://github.com/ayubsoaliha-SS/techflow.git
 
 ---
 
