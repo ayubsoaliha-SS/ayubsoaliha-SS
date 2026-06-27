@@ -113,7 +113,7 @@ Feel free to explore my repositories or drop a message to talk about clean code,
   <a href="https://www.linkedin.com/in/soaliha-ayub-83b06825b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://soalihaayub.netlify.app/" target="_blank">
+  <a href="complete-portfolio-delta.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
