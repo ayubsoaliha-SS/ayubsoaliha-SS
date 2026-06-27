@@ -46,35 +46,51 @@
 
 *Each project contains dedicated links for source review, live environments, and functionality recordings to meet industry expectations.*
 
-#### 📂 1. Project One Title (e.g., FreshEats E-Commerce Platform)
-> **Project Type:** Fullstack / Frontend / Backend
-*   **Description:** A feature-rich application designed to solve [insert problem statement]. Includes user management, state control, and fluid interface flows.
-*   **Tech Stack:** React, Node.js, Express, MongoDB, Redux
-*   **Links:** 🌐 [Live Deployment](#) | 🎬 [Video Walkthrough](#) | 💻 [GitHub Repository](#)
+#### 📂 1. LUNA   AI Wellness Platform
 
-#### 📂 2. Project Two Title
 > **Project Type:** Fullstack / Frontend / Backend
-*   **Description:** A responsive application engineered around seamless state rendering and secure architectural design principles.
-*   **Tech Stack:** JavaScript, HTML5, CSS3, REST APIs
-*   **Links:** 🌐 [Live Deployment](#) | 🎬 [Video Walkthrough](#) | 💻 [GitHub Repository](#)
+*   **Description:**AI-powered menstrual cycle intelligence platform with privacy-focused insights, calendar intelligence, and personalized wellness guidance.
+*   Designed an insight-led dashboard for cycle tracking, wellness signals, and AI guidance.
+Focused the product around privacy, clarity, and quick interpretation of personal health patterns.
+Structured the experience for React components, backend integration, and future authentication flows.
+*   **Tech Stack:** React, Node.js,Claude AI,JavaScript
+*   **Links:** 🌐 https://luna-two-sigma.vercel.app(#)  | 💻 https://github.com/ayubsoaliha-SS/LUNA.git
 
-#### 📂 3. Project Three Title
+#### 📂 2. CareConnect Healthcare Operations
 > **Project Type:** Fullstack / Frontend / Backend
-*   **Description:** Dedicated operational framework focusing heavily on clean server routines, efficient data processing, and optimized asset handling.
-*   **Tech Stack:** Node.js, Express, MongoDB, Mongoose
-*   **Links:** 🌐 [Live Deployment](#) | 🎬 [Video Walkthrough](#) | 💻 [GitHub Repository](#)
+*   **Description:** Caretaker and patient management platform for care schedules, patient records, secure coordination, and task visibility.
+*   Mapped the core workflow around patient records, caretaker assignment, task status, and schedules.
+*   Designed cards and dashboard modules that keep operational information scannable.
+*   Planned the platform around data models, secure access, and clear handoffs between users.
+*   **Tech Stack:** JavaScript, React,Node,MongoDB
+*   **Links:** 🌐 https://care-connect-three-sandy.vercel.app |  💻 https://github.com/ayubsoaliha-SS/care-connect.git
 
-#### 📂 4. Project Four Title
-> **Project Type:** Fullstack / Frontend / Backend
-*   **Description:** Interactive frontend application displaying complex data parsing, UI layouts, and fast interactive response metrics.
-*   **Tech Stack:** React, Custom CSS, Context API
-*   **Links:** 🌐 [Live Deployment](#) | 🎬 [Video Walkthrough](#) | 💻 [GitHub Repository](#)
+#### 📂 3. Heavensway Travel Travel Experience
+> **Project Type:** Frontend and experience design
+*   **Description:** Luxury Kashmir tourism platform shaped around elegant destination discovery, curated itineraries, and high-converting booking flows.
+*   Built the visual direction around Kashmir destination discovery and luxury travel expectations.
+*   Organized core sections for itineraries, destination cards, trust signals, and booking intent.
+*   Prioritized responsive layout, strong imagery, and conversion-focused calls to action.
+*   **Tech Stack:** HTML, CSS, Javascript
+*   **Links:** 🌐 https://heavens-travel.vercel.app| 💻 https://github.com/ayubsoaliha-SS/Heavensway-Travel.git
 
-#### 📂 5. Project Five Title
+#### 📂 4.AI Portfolio Audit   Developer Productivity
 > **Project Type:** Fullstack / Frontend / Backend
-*   **Description:** A lightweight utility engine handling daily tasks, automated data processing, or algorithmic computations cleanly.
-*   **Tech Stack:** Core JavaScript, Async/Await APIs
-*   **Links:** 🌐 [Live Deployment](#) | 🎬 [Video Walkthrough](#) | 💻 [GitHub Repository](#)
+*   **Description:** IA dashboard concept that reviews resume strength, project presentation, and portfolio performance using AI-backed recommendations.
+*   Created a structured review flow for resumes, project descriptions, and portfolio presentation.
+*   Outlined AI suggestion surfaces that help users improve clarity without losing their own voice.
+*   Framed analytics around practical next steps rather than vanity scores.
+*   **Tech Stack:** React, Custom CSS,AI,Analytics
+*   **Links:** 🌐 https://al-audit-frontend.vercel.app |  💻https://github.com/ayubsoaliha-SS/Al.audit.git
+
+#### 📂 5. LearnFlow  Learning Platform
+> **Project Type:** Fullstack / Frontend / Backend
+*   **Description:** A collaborative learning dashboard for progress tracking, mentor feedback, modules, and focused skill-building workflows.
+*   Organized course modules, progress milestones, mentor notes, and tasks into one dashboard.
+*   Designed for learners who need a fast view of what to do next and where they are improving.
+*   Kept the UI modular so features can grow into collaboration, feedback, and analytics flows.
+*   **Tech Stack:** Core JavaScript, CSS,Javascript
+*   **Links:** 🌐 https://techflow-five.vercel.app|  💻 https://github.com/ayubsoaliha-SS/techflow.git
 
 ---
 
