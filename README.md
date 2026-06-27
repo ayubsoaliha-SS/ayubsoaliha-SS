@@ -54,7 +54,7 @@
 Focused the product around privacy, clarity, and quick interpretation of personal health patterns.
 Structured the experience for React components, backend integration, and future authentication flows.
 *   **Tech Stack:** React, Node.js,Claude AI,JavaScript
-*   **Links:** 🌐 https://luna-two-sigma.vercel.app(#)  | 💻 https://github.com/ayubsoaliha-SS/LUNA.git
+*   **Links:** 🌐 https://luna-two-sigma.vercel.app  | 💻 https://github.com/ayubsoaliha-SS/LUNA.git
 
 #### 📂 2. CareConnect Healthcare Operations
 > **Project Type:** Fullstack / Frontend / Backend
